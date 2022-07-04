@@ -1,2 +1,2 @@
 print("feature1 commit2")
-print("conflict2")
+print("conflict1")
